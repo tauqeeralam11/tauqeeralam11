@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Building scalable web applications with modern JavaScript frameworks<br>👨‍💻 All of my projects are available at [tauqeeralam.in](https://tauqeeralam.in)<br>⚡ Fun fact I turn coffee ☕ into clean code and bugs into features 😄
+🔭 I’m currently working on Building scalable web applications with modern JavaScript frameworks<br>👨‍💻 All of my projects are available at <a href="https://tauqeeralam.in" target="_blank">tauqeeralam.in</a><br>⚡ Fun fact I turn coffee ☕ into clean code and bugs into features 😄
 
 
 ## 🌐 Socials:
